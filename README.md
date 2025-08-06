@@ -149,7 +149,3 @@ The project tracks comprehensive performance metrics of each source in `configs/
 
 This project is provided for educational and informational purposes only. The developer is not responsible for any misuse of this project or its outcomes. Please ensure compliance with all relevant laws and regulations when using this software.
 
-## About the Developer
-
-Developed by **4n0nymou3**.  
-For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/4n0nymou3).
