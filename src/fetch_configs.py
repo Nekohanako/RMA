@@ -1,3 +1,10 @@
+
+---
+**فایل: `src/fetch_configs.py`**
+
+**مهم:** برای اینکه همیشه اسم کانفیگ‌ها `@Proxyfig` باشه، باید خود اسکریپت اصلی رو دستکاری کنیم. من این تغییر رو برات انجام دادم. این اسکریپت کانفیگ‌ها رو از منابع می‌گیره و قبل از ذخیره کردن، اسمشون رو به `@Proxyfig` تغییر میده.
+
+```python
 import re
 import os
 import time
@@ -19,6 +26,13 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+def change_config_name(config_str: str, new_name: str) -> str:
+    """Changes the name of a proxy config (text after #)."""
+    if '#' in config_str:
+        base_config = config_str.split('#')[0]
+        return f"{base_config}#{new_name}"
+    return f"{config_str}#{new_name}"
 
 class ConfigFetcher:
     def __init__(self, config: ProxyConfig):
@@ -222,7 +236,9 @@ class ConfigFetcher:
                     if clean_config not in self.seen_configs:
                         channel.metrics.unique_configs += 1
                         self.seen_configs.add(clean_config)
-                        processed_configs.append(clean_config)
+                        # Change name before adding
+                        named_config = change_config_name(clean_config, "@Proxyfig")
+                        processed_configs.append(named_config)
                         self.protocol_counts[protocol] += 1
                 break
                 
@@ -303,16 +319,16 @@ def save_configs(configs: List[str], config: ProxyConfig):
     try:
         os.makedirs(os.path.dirname(config.OUTPUT_FILE), exist_ok=True)
         with open(config.OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            header = """//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
+            header = """//profile-title: base64:QGNoYW5lbF9wcm94eWZpZw==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/Chat_Support_Configs
-//profile-web-page-url: https://t.me/Rayan_Config
+//support-url: https://t.me/Proxyfig
+//profile-web-page-url: https://t.me/Proxyfig
 
 """
             f.write(header)
-            for config in configs:
-                f.write(config + '\n\n')
+            for cfg in configs:
+                f.write(cfg + '\n\n')
         logger.info(f"Successfully saved {len(configs)} configs to {config.OUTPUT_FILE}")
     except Exception as e:
         logger.error(f"Error saving configs: {str(e)}")
@@ -372,4 +388,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
