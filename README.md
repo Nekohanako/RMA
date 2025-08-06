@@ -92,8 +92,8 @@ The overall score is calculated in real-time and updated hourly. Sources scoring
 
 ```bash
 # Clone the repository
-git clone https://github.com/4n0nymou3/multi-proxy-config-fetcher.git
-cd multi-proxy-config-fetcher
+git clone https://github.com/nekohanako/RMA.git
+cd RMA
 
 # Install dependencies
 pip install -r requirements.txt
