@@ -1,9 +1,9 @@
 # RMA
-[![Stars](https://img.shields.io/github/stars/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/stargazers)
-[![Forks](https://img.shields.io/github/forks/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/network/members)
-[![Issues](https://img.shields.io/github/issues/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/issues)
-[![License](https://img.shields.io/github/license/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/LICENSE)
-[![Activity](https://img.shields.io/github/last-commit/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/commits)
+[![Stars](https://img.shields.io/github/stars/Nekohanako/RMA?style=flat-square)](https://github.com/Nekohanako/RMA/stargazers)
+[![Forks](https://img.shields.io/github/forks/Nekohanako/RMA?style=flat-square)](https://github.com/Nekohanako/RMA/network/members)
+[![Issues](https://img.shields.io/github/issues/Nekohanako/RMA?style=flat-square)](https://github.com/Nekohanako/RMA/issues)
+[![License](https://img.shields.io/github/license/Nekohanako/RMA?style=flat-square)](https://github.com/Nekohanako/RMA/blob/main/LICENSE)
+[![Activity](https://img.shields.io/github/last-commit/Nekohanako/RMA?style=flat-square)](https://github.com/Nekohanako/RMA/commits)
 
 # Multi Proxy Config Fetcher
 
