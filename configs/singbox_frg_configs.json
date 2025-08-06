@@ -8,7 +8,7 @@
             {
                 "type": "https",
                 "server": "8.8.8.8",
-                "detour": "👑 @Rayan_Config 👑",
+                "detour": "👑 @Rproxyfig 👑",
                 "tag": "dns-remote"
             },
             {
@@ -83,7 +83,7 @@
     "outbounds": [
         {
             "type": "selector",
-            "tag": "👑 @Rayan_Config 👑",
+            "tag": "👑 @proxyfig 👑",
             "outbounds": [
                 "♻️ Best Ping 🔥",
                 "Rayan - CF - C1 - 443",
@@ -581,7 +581,7 @@
             },
             {
                 "clash_mode": "Global",
-                "outbound": "👑 @Rayan_Config 👑"
+                "outbound": "👑 @proxyfig 👑"
             },
             {
                 "network": "udp",
@@ -669,7 +669,7 @@
             }
         ],
         "auto_detect_interface": true,
-        "final": "👑 @Rayan_Config 👑"
+        "final": "👑 @proxyfig 👑"
     },
     "ntp": {
         "enabled": true,
