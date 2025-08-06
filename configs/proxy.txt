@@ -1,8 +1,8 @@
-//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
+//profile-title: base64:QGNoYW5lbF9wcm94eWZpZw==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/Chat_Support_Configs
-//profile-web-page-url: https://t.me/Rayan_Config
+//support-url: https://t.me/Proxyfig
+//profile-web-page-url: https://t.me/Proxyfig
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -104,7 +104,7 @@ hysteria2://86373f23-4618-48b8-830e-ec132559f835@hg.dport.top:33656/?insecure=1&
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@hl.dport.top:33659/?insecure=1&sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8D%B7%E5%85%B0
 
-hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A556.19%20GB
+hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A553.33%20GB
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
