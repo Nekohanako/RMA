@@ -179,22 +179,19 @@ class ConfigFetcher:
         
         configs = list(set(configs))
         
-        for config in configs[:]:
-            for protocol in self.config.SUPPORTED_PROTOCOLS:
-                if config.startswith(protocol):
-                    processed_configs = self.process_config(config, channel)
-                    if not processed_configs:
-                        configs.remove(config)
-                    break
-        
-        if len(configs) >= self.config.MIN_CONFIGS_PER_CHANNEL:
+        processed_channel_configs = []
+        for config_item in configs:
+            processed_configs = self.process_config(config_item, channel)
+            processed_channel_configs.extend(processed_configs)
+
+        if len(processed_channel_configs) >= self.config.MIN_CONFIGS_PER_CHANNEL:
             self.config.update_channel_stats(channel, True, response_time)
             self.config.adjust_protocol_limits(channel)
         else:
             self.config.update_channel_stats(channel, False)
-            logger.warning(f"Not enough configs found in {channel.url}: {len(configs)} configs")
+            logger.warning(f"Not enough valid configs found in {channel.url}: {len(processed_channel_configs)} configs")
         
-        return configs
+        return processed_channel_configs
 
     def process_config(self, config: str, channel: ChannelConfig) -> List[str]:
         processed_configs = []
@@ -229,9 +226,7 @@ class ConfigFetcher:
                     if clean_config not in self.seen_configs:
                         channel.metrics.unique_configs += 1
                         self.seen_configs.add(clean_config)
-                        # Change name before adding
-                        named_config = change_config_name(clean_config, "@Proxyfig")
-                        processed_configs.append(named_config)
+                        processed_configs.append(clean_config)
                         self.protocol_counts[protocol] += 1
                 break
                 
@@ -308,10 +303,11 @@ class ConfigFetcher:
             return all_configs
         return []
 
-def save_configs(configs: List[str], config: ProxyConfig):
+def save_configs(configs: List[str], config_manager: ProxyConfig):
+    """Saves the final list of configs to the output file, renaming them."""
     try:
-        os.makedirs(os.path.dirname(config.OUTPUT_FILE), exist_ok=True)
-        with open(config.OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        os.makedirs(os.path.dirname(config_manager.OUTPUT_FILE), exist_ok=True)
+        with open(config_manager.OUTPUT_FILE, 'w', encoding='utf-8') as f:
             header = """//profile-title: base64:QGNoYW5lbF9wcm94eWZpZw==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -320,11 +316,17 @@ def save_configs(configs: List[str], config: ProxyConfig):
 
 """
             f.write(header)
+            
+            # ** کلید حل مشکل اینجاست **
+            # قبل از نوشتن، اسم هر کانفیگ را تغییر می‌دهیم
             for cfg in configs:
-                f.write(cfg + '\n\n')
-        logger.info(f"Successfully saved {len(configs)} configs to {config.OUTPUT_FILE}")
+                named_cfg = change_config_name(cfg, "@Proxyfig")
+                f.write(named_cfg + '\n\n')
+                
+        logger.info(f"Successfully saved {len(configs)} configs to {config_manager.OUTPUT_FILE}")
     except Exception as e:
         logger.error(f"Error saving configs: {str(e)}")
+
 
 def save_channel_stats(config: ProxyConfig):
     try:
