@@ -43,7 +43,7 @@ If you fork this repository, make sure to replace `USERNAME` in the above link w
 1. Edit the `README.md` file in your forked repository.
 2. Locate the following line:
    ```markdown
-   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Rayan-Config/C-Sub/blob/main/assets/performance_report.html)
+   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Nekohanako/RMA/blob/main/assets/performance_report.html)
    ```
 3. Replace `USERNAME` with your GitHub username.
 4. Commit the changes.
