@@ -150,12 +150,6 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
-hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:58995/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
 vless://0132740f-c0d4-5f8b-b283-77f3fd604c57@194.147.34.72:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.34.72&encryption=none#@Proxyfig
 
 vless://06db78c4-fce2-406b-8d40-16f8c644f0ea@gstatic-edge-gw01.cyberscaler.net:2087?security=reality&sni=fonts.gstatic.com&fp=safari&pbk=Zi9WQ3IxyvROG0dBrUVIPoi-3N2qoFQT_pfijQU7iDE&sid=567e&spx=/cdn-assets-v2&type=tcp&encryption=none#@Proxyfig
