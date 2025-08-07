@@ -186,12 +186,6 @@ hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
@@ -251,12 +245,6 @@ hysteria2://86373f23-4618-48b8-830e-ec132559f835@mg.dport.top:33650/?insecure=1&
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@rb.dport.top:33657/?insecure=1&sni=rb.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Proxyfig
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@teq.dport.top:33658/?insecure=1&sni=teq.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Proxyfig
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
