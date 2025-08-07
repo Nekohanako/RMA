@@ -10,7 +10,7 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:58995/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
@@ -64,7 +64,7 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:58995/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#@Proxyfig
 
