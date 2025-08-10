@@ -35,28 +35,6 @@ Below is the real-time performance statistics of the configured sources (Telegra
   </a>
 </div>
 
-### Detailed Report
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Nekohanako/RMA/blob/main/assets/performance_report.html)
-
-> **Important for Forked Repositories**:  
-If you fork this repository, make sure to replace `USERNAME` in the above link with your GitHub username. This ensures that the link directs to your own interactive dashboard instead of the original project's dashboard. To do this:
-1. Edit the `README.md` file in your forked repository.
-2. Locate the following line:
-   ```markdown
-   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Nekohanako/RMA/blob/main/assets/performance_report.html)
-   ```
-3. Replace `USERNAME` with your GitHub username.
-4. Commit the changes.
-
-Each source is scored based on four key metrics:
-- **Reliability Score (35%)**: Success rate in fetching and updating configurations.
-- **Config Quality (25%)**: Ratio of valid configs to total fetched configurations.
-- **Config Uniqueness (25%)**: Percentage of unique configs contributed.
-- **Response Time (15%)**: Server response time and availability.
-
-The overall score is calculated in real-time and updated hourly. Sources scoring below 30% are automatically disabled.
-
-> **Note**: The sources listed are examples. You can easily modify the source list in `src/config.py` to use your preferred Telegram channels, SSCONF links or other URLs. The performance metrics shown above are based on real-time monitoring of each source's reliability in providing valid configurations.
 
 ## Features
 
