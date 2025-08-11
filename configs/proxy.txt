@@ -12,6 +12,18 @@ vless://0d9a6872-cc1b-4a1d-97c0-b26cfb0a2fab@fonts-edge.cyberscaler.net:3001?sec
 
 vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none#@Proxyfig
 
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@1password.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.rayan.dpdns.org&encryption=none#@Proxyfig
+
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.rayan.dpdns.org&encryption=none#@Proxyfig
+
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.rayan.dpdns.org&encryption=none#@Proxyfig
+
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a03.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a03.rayan.dpdns.org&encryption=none#@Proxyfig
+
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visa.com.tw:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-config-telegram-a04.rayan.dpdns.org&encryption=none#@Proxyfig
+
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.rayan.dpdns.org&encryption=none#@Proxyfig
+
 vless://18da5a86-1b44-4a88-bb2b-6845d75a74a3@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#@Proxyfig
 
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
@@ -69,8 +81,6 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@patient.co.uk:443?security=tls&sni=
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@smosh.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.leila.dpdns.org&encryption=none#@Proxyfig
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.leila.dpdns.org&encryption=none#@Proxyfig
-
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.leila.dpdns.org&encryption=none#@Proxyfig
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a03.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a03.leila.dpdns.org&encryption=none#@Proxyfig
 
