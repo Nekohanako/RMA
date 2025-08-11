@@ -818,7 +818,7 @@
                 "server_name": "businessmadesimple.com",
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "safari"
+                    "fingerprint": "qq"
                 }
             }
         },
@@ -839,7 +839,7 @@
                 "server_name": "www.thewilliamvale.com",
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "ios"
                 }
             }
         },
@@ -860,7 +860,7 @@
                 "server_name": "www.apple.com.cn",
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
+                    "fingerprint": "ios"
                 }
             }
         },
@@ -881,7 +881,7 @@
                 "server_name": "www.apple.com.cn",
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 }
             }
         },
@@ -902,7 +902,7 @@
                 "server_name": "www.webilop.com",
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "safari"
+                    "fingerprint": "firefox"
                 }
             }
         },
