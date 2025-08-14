@@ -16,13 +16,13 @@
 
 شما می‌توانید مستقیماً از طریق این URL به آخرین پیکربندی‌ها دسترسی پیدا کنید:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/Nekohanako/RMA/refs/heads/main/configs/proxy_configs.txt
 ```
 این پروژه دارای قابلیت‌های پیشرفته‌ای برای مدیریت کانفیگ‌های پروکسی است. کانفیگ‌های دریافت شده به صورت خودکار به فرمت Sing-box تبدیل می‌شوند و در یک فایل JSON جداگانه ذخیره می‌شوند. برای هر سرور، موقعیت جغرافیایی آن با استفاده از متد get location شناسایی شده و به صورت خودکار ایموجی پرچم و نام کشور مربوطه به تگ آن اضافه می‌شود. این ویژگی‌ها باعث می‌شود مدیریت و استفاده از پروکسی‌ها برای کاربران بسیار ساده‌تر شود.
 
 لینک اشتراک Sing-box:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+https://raw.githubusercontent.com/nekohanako/RMA/refs/heads/main/configs/singbox_configs.json
 ```
 
 ## عملکرد کانال‌ها و URL‌ها
