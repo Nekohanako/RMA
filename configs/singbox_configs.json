@@ -117,7 +117,7 @@
                 "@Proxyfig-63 - 🇨🇦 Canada",
                 "@Proxyfig-64 - 🇨🇦 Canada",
                 "@Proxyfig-65 - 🇨🇦 Canada",
-                "@Proxyfig-66 - 🏳️ Unknown",
+                "@Proxyfig-66 - 🇬🇧 United Kingdom",
                 "@Proxyfig-67 - 🇨🇦 Canada"
             ]
         },
@@ -198,7 +198,7 @@
                 "@Proxyfig-63 - 🇨🇦 Canada",
                 "@Proxyfig-64 - 🇨🇦 Canada",
                 "@Proxyfig-65 - 🇨🇦 Canada",
-                "@Proxyfig-66 - 🏳️ Unknown",
+                "@Proxyfig-66 - 🇬🇧 United Kingdom",
                 "@Proxyfig-67 - 🇨🇦 Canada"
             ],
             "url": "http://www.gstatic.com/generate_204"
@@ -1605,7 +1605,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-66 - 🏳️ Unknown",
+            "tag": "@Proxyfig-66 - 🇬🇧 United Kingdom",
             "server": "51.195.202.129",
             "server_port": 443,
             "uuid": "e7e9b808-20ac-4bd7-b71f-76374156fac6",
