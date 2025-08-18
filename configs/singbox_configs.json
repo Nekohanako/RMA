@@ -53,7 +53,7 @@
             "outbounds": [
                 "♻️ Best Ping 🔥",
                 "@Proxyfig-01 - 🇩🇪 Germany",
-                "@Proxyfig-02 - 🇨🇦 Canada",
+                "@Proxyfig-02 - 🏳️ Unknown",
                 "@Proxyfig-03 - 🇨🇦 Canada",
                 "@Proxyfig-04 - 🇨🇦 Canada",
                 "@Proxyfig-05 - 🇨🇦 Canada",
@@ -106,7 +106,7 @@
                 "@Proxyfig-52 - 🇩🇪 Germany",
                 "@Proxyfig-53 - 🇨🇦 Canada",
                 "@Proxyfig-54 - 🇸🇬 Singapore",
-                "@Proxyfig-55 - 🇨🇦 Canada",
+                "@Proxyfig-55 - 🏳️ Unknown",
                 "@Proxyfig-56 - 🇨🇦 Canada",
                 "@Proxyfig-57 - 🇨🇦 Canada",
                 "@Proxyfig-58 - 🇨🇦 Canada",
@@ -126,7 +126,7 @@
             "tag": "♻️ Best Ping 🔥",
             "outbounds": [
                 "@Proxyfig-01 - 🇩🇪 Germany",
-                "@Proxyfig-02 - 🇨🇦 Canada",
+                "@Proxyfig-02 - 🏳️ Unknown",
                 "@Proxyfig-03 - 🇨🇦 Canada",
                 "@Proxyfig-04 - 🇨🇦 Canada",
                 "@Proxyfig-05 - 🇨🇦 Canada",
@@ -179,7 +179,7 @@
                 "@Proxyfig-52 - 🇩🇪 Germany",
                 "@Proxyfig-53 - 🇨🇦 Canada",
                 "@Proxyfig-54 - 🇸🇬 Singapore",
-                "@Proxyfig-55 - 🇨🇦 Canada",
+                "@Proxyfig-55 - 🏳️ Unknown",
                 "@Proxyfig-56 - 🇨🇦 Canada",
                 "@Proxyfig-57 - 🇨🇦 Canada",
                 "@Proxyfig-58 - 🇨🇦 Canada",
@@ -213,7 +213,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-02 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-02 - 🏳️ Unknown",
             "server": "fonts-edge.cyberscaler.net",
             "server_port": 3001,
             "uuid": "0d9a6872-cc1b-4a1d-97c0-b26cfb0a2fab",
@@ -1376,7 +1376,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-55 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-55 - 🏳️ Unknown",
             "server": "datafiles.cyberscaler.net",
             "server_port": 443,
             "uuid": "d7ef1a6d-a2da-4d43-87d8-f110b13163c7",
