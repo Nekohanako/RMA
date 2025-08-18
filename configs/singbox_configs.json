@@ -108,7 +108,7 @@
                 "@Proxyfig-54 - 🇸🇬 Singapore",
                 "@Proxyfig-55 - 🏳️ Unknown",
                 "@Proxyfig-56 - 🇨🇦 Canada",
-                "@Proxyfig-57 - 🇨🇦 Canada",
+                "@Proxyfig-57 - 🏳️ Unknown",
                 "@Proxyfig-58 - 🇨🇦 Canada",
                 "@Proxyfig-59 - 🇨🇦 Canada"
             ]
@@ -181,7 +181,7 @@
                 "@Proxyfig-54 - 🇸🇬 Singapore",
                 "@Proxyfig-55 - 🏳️ Unknown",
                 "@Proxyfig-56 - 🇨🇦 Canada",
-                "@Proxyfig-57 - 🇨🇦 Canada",
+                "@Proxyfig-57 - 🏳️ Unknown",
                 "@Proxyfig-58 - 🇨🇦 Canada",
                 "@Proxyfig-59 - 🇨🇦 Canada"
             ],
@@ -1405,7 +1405,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-57 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-57 - 🏳️ Unknown",
             "server": "sport-shop-gw01.cyberscaler.net",
             "server_port": 6068,
             "uuid": "de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb",
