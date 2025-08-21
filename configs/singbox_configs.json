@@ -61,7 +61,7 @@
                 "@Proxyfig-07 - 🇩🇪 Germany",
                 "@Proxyfig-08 - 🇱🇮 Liechtenstein",
                 "@Proxyfig-09 - 🇨🇦 Canada",
-                "@Proxyfig-10 - 🇨🇦 Canada",
+                "@Proxyfig-10 - 🇩🇪 Germany",
                 "@Proxyfig-11 - 🇨🇦 Canada",
                 "@Proxyfig-12 - 🇨🇦 Canada",
                 "@Proxyfig-13 - 🇨🇦 Canada",
@@ -97,7 +97,7 @@
                 "@Proxyfig-43 - 🇨🇦 Canada",
                 "@Proxyfig-44 - 🇨🇦 Canada",
                 "@Proxyfig-45 - 🇨🇦 Canada",
-                "@Proxyfig-46 - 🇨🇦 Canada",
+                "@Proxyfig-46 - 🇩🇪 Germany",
                 "@Proxyfig-47 - 🇬🇧 United Kingdom"
             ]
         },
@@ -122,7 +122,7 @@
                 "@Proxyfig-07 - 🇩🇪 Germany",
                 "@Proxyfig-08 - 🇱🇮 Liechtenstein",
                 "@Proxyfig-09 - 🇨🇦 Canada",
-                "@Proxyfig-10 - 🇨🇦 Canada",
+                "@Proxyfig-10 - 🇩🇪 Germany",
                 "@Proxyfig-11 - 🇨🇦 Canada",
                 "@Proxyfig-12 - 🇨🇦 Canada",
                 "@Proxyfig-13 - 🇨🇦 Canada",
@@ -158,7 +158,7 @@
                 "@Proxyfig-43 - 🇨🇦 Canada",
                 "@Proxyfig-44 - 🇨🇦 Canada",
                 "@Proxyfig-45 - 🇨🇦 Canada",
-                "@Proxyfig-46 - 🇨🇦 Canada",
+                "@Proxyfig-46 - 🇩🇪 Germany",
                 "@Proxyfig-47 - 🇬🇧 United Kingdom"
             ],
             "url": "http://www.gstatic.com/generate_204"
@@ -374,7 +374,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-10 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-10 - 🇩🇪 Germany",
             "server": "cf-assets-blog.cyberscaler.net",
             "server_port": 443,
             "uuid": "277f230b-638b-47c9-95d5-032f99186283",
@@ -1174,7 +1174,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-46 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-46 - 🇩🇪 Germany",
             "server": "cf-assets-blog.cyberscaler.net",
             "server_port": 443,
             "uuid": "e931b9e7-8f36-41a4-91f4-f896c6bc42c5",
