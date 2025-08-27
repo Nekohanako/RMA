@@ -100,9 +100,7 @@
                 "@Proxyfig-46 - 🇳🇱 The Netherlands",
                 "@Proxyfig-47 - 🇨🇦 Canada",
                 "@Proxyfig-48 - 🇵🇱 Poland",
-                "@Proxyfig-49 - 🇭🇰 Hong Kong",
-                "@Proxyfig-50 - 🇭🇰 Hong Kong",
-                "@Proxyfig-51 - 🇫🇷 France"
+                "@Proxyfig-49 - 🇫🇷 France"
             ]
         },
         {
@@ -165,9 +163,7 @@
                 "@Proxyfig-46 - 🇳🇱 The Netherlands",
                 "@Proxyfig-47 - 🇨🇦 Canada",
                 "@Proxyfig-48 - 🇵🇱 Poland",
-                "@Proxyfig-49 - 🇭🇰 Hong Kong",
-                "@Proxyfig-50 - 🇭🇰 Hong Kong",
-                "@Proxyfig-51 - 🇫🇷 France"
+                "@Proxyfig-49 - 🇫🇷 France"
             ],
             "url": "http://www.gstatic.com/generate_204"
         },
@@ -1210,49 +1206,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-49 - 🇭🇰 Hong Kong",
-            "server": "34.92.166.45",
-            "server_port": 49275,
-            "uuid": "fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "reality": {
-                    "enabled": true,
-                    "public_key": "x1WLSTZI7_c9ryFfyX9Xh8eFdSsrzYyJoI6x_aPZ2SE",
-                    "short_id": "090923d70edae191"
-                },
-                "server_name": "images-na.ssl-images-amazon.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "@Proxyfig-50 - 🇭🇰 Hong Kong",
-            "server": "34.92.166.45",
-            "server_port": 59275,
-            "uuid": "fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UQetUnews-iG6a3W0kg5bWhxMUz9uKzJKVpJsLYsqGs",
-                    "short_id": "35abb7e50c8067"
-                },
-                "server_name": "images-na.ssl-images-amazon.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "@Proxyfig-51 - 🇫🇷 France",
+            "tag": "@Proxyfig-49 - 🇫🇷 France",
             "server": "51.178.42.187",
             "server_port": 443,
             "uuid": "ff288332-d2d2-473d-9b30-b6ab97f27b90",
