@@ -52,26 +52,26 @@
             "tag": "PROXY",
             "outbounds": [
                 "♻️ Best Ping 🔥",
-                "@Proxyfig-01 - 🇩🇪 Germany",
-                "@Proxyfig-02 - 🇱🇮 Liechtenstein",
-                "@Proxyfig-03 - 🇫🇷 France",
-                "@Proxyfig-04 - 🇩🇪 Germany",
-                "@Proxyfig-05 - 🇮🇷 Iran",
+                "@Proxyfig-01 - 🇺🇸 United States",
+                "@Proxyfig-02 - 🇩🇪 Germany",
+                "@Proxyfig-03 - 🇱🇮 Liechtenstein",
+                "@Proxyfig-04 - 🇫🇷 France",
+                "@Proxyfig-05 - 🇩🇪 Germany",
                 "@Proxyfig-06 - 🇮🇷 Iran",
-                "@Proxyfig-07 - 🇷🇺 Russia",
-                "@Proxyfig-08 - 🇹🇷 Türkiye",
-                "@Proxyfig-09 - 🇫🇷 France",
-                "@Proxyfig-10 - 🇨🇦 Canada",
-                "@Proxyfig-11 - 🇮🇷 Iran",
-                "@Proxyfig-12 - 🇩🇪 Germany",
-                "@Proxyfig-13 - 🇬🇧 United Kingdom",
-                "@Proxyfig-14 - 🇷🇺 Russia",
+                "@Proxyfig-07 - 🇮🇷 Iran",
+                "@Proxyfig-08 - 🇷🇺 Russia",
+                "@Proxyfig-09 - 🇹🇷 Türkiye",
+                "@Proxyfig-10 - 🇫🇷 France",
+                "@Proxyfig-11 - 🇨🇦 Canada",
+                "@Proxyfig-12 - 🇮🇷 Iran",
+                "@Proxyfig-13 - 🇩🇪 Germany",
+                "@Proxyfig-14 - 🇬🇧 United Kingdom",
                 "@Proxyfig-15 - 🇷🇺 Russia",
-                "@Proxyfig-16 - 🇫🇷 France",
-                "@Proxyfig-17 - 🇫🇷 France",
+                "@Proxyfig-16 - 🇷🇺 Russia",
+                "@Proxyfig-17 - 🇺🇸 United States",
                 "@Proxyfig-18 - 🇫🇷 France",
-                "@Proxyfig-19 - 🇺🇸 United States",
-                "@Proxyfig-20 - 🇺🇸 United States",
+                "@Proxyfig-19 - 🇫🇷 France",
+                "@Proxyfig-20 - 🇫🇷 France",
                 "@Proxyfig-21 - 🇺🇸 United States",
                 "@Proxyfig-22 - 🇺🇸 United States",
                 "@Proxyfig-23 - 🇺🇸 United States",
@@ -85,9 +85,11 @@
                 "@Proxyfig-31 - 🇺🇸 United States",
                 "@Proxyfig-32 - 🇺🇸 United States",
                 "@Proxyfig-33 - 🇺🇸 United States",
-                "@Proxyfig-34 - 🇯🇵 Japan",
-                "@Proxyfig-35 - 🇹🇷 Türkiye",
-                "@Proxyfig-36 - 🇨🇦 Canada"
+                "@Proxyfig-34 - 🇺🇸 United States",
+                "@Proxyfig-35 - 🇯🇵 Japan",
+                "@Proxyfig-36 - 🇺🇸 United States",
+                "@Proxyfig-37 - 🇹🇷 Türkiye",
+                "@Proxyfig-38 - 🇨🇦 Canada"
             ]
         },
         {
@@ -102,26 +104,26 @@
             "type": "urltest",
             "tag": "♻️ Best Ping 🔥",
             "outbounds": [
-                "@Proxyfig-01 - 🇩🇪 Germany",
-                "@Proxyfig-02 - 🇱🇮 Liechtenstein",
-                "@Proxyfig-03 - 🇫🇷 France",
-                "@Proxyfig-04 - 🇩🇪 Germany",
-                "@Proxyfig-05 - 🇮🇷 Iran",
+                "@Proxyfig-01 - 🇺🇸 United States",
+                "@Proxyfig-02 - 🇩🇪 Germany",
+                "@Proxyfig-03 - 🇱🇮 Liechtenstein",
+                "@Proxyfig-04 - 🇫🇷 France",
+                "@Proxyfig-05 - 🇩🇪 Germany",
                 "@Proxyfig-06 - 🇮🇷 Iran",
-                "@Proxyfig-07 - 🇷🇺 Russia",
-                "@Proxyfig-08 - 🇹🇷 Türkiye",
-                "@Proxyfig-09 - 🇫🇷 France",
-                "@Proxyfig-10 - 🇨🇦 Canada",
-                "@Proxyfig-11 - 🇮🇷 Iran",
-                "@Proxyfig-12 - 🇩🇪 Germany",
-                "@Proxyfig-13 - 🇬🇧 United Kingdom",
-                "@Proxyfig-14 - 🇷🇺 Russia",
+                "@Proxyfig-07 - 🇮🇷 Iran",
+                "@Proxyfig-08 - 🇷🇺 Russia",
+                "@Proxyfig-09 - 🇹🇷 Türkiye",
+                "@Proxyfig-10 - 🇫🇷 France",
+                "@Proxyfig-11 - 🇨🇦 Canada",
+                "@Proxyfig-12 - 🇮🇷 Iran",
+                "@Proxyfig-13 - 🇩🇪 Germany",
+                "@Proxyfig-14 - 🇬🇧 United Kingdom",
                 "@Proxyfig-15 - 🇷🇺 Russia",
-                "@Proxyfig-16 - 🇫🇷 France",
-                "@Proxyfig-17 - 🇫🇷 France",
+                "@Proxyfig-16 - 🇷🇺 Russia",
+                "@Proxyfig-17 - 🇺🇸 United States",
                 "@Proxyfig-18 - 🇫🇷 France",
-                "@Proxyfig-19 - 🇺🇸 United States",
-                "@Proxyfig-20 - 🇺🇸 United States",
+                "@Proxyfig-19 - 🇫🇷 France",
+                "@Proxyfig-20 - 🇫🇷 France",
                 "@Proxyfig-21 - 🇺🇸 United States",
                 "@Proxyfig-22 - 🇺🇸 United States",
                 "@Proxyfig-23 - 🇺🇸 United States",
@@ -135,15 +137,32 @@
                 "@Proxyfig-31 - 🇺🇸 United States",
                 "@Proxyfig-32 - 🇺🇸 United States",
                 "@Proxyfig-33 - 🇺🇸 United States",
-                "@Proxyfig-34 - 🇯🇵 Japan",
-                "@Proxyfig-35 - 🇹🇷 Türkiye",
-                "@Proxyfig-36 - 🇨🇦 Canada"
+                "@Proxyfig-34 - 🇺🇸 United States",
+                "@Proxyfig-35 - 🇯🇵 Japan",
+                "@Proxyfig-36 - 🇺🇸 United States",
+                "@Proxyfig-37 - 🇹🇷 Türkiye",
+                "@Proxyfig-38 - 🇨🇦 Canada"
             ],
             "url": "http://www.gstatic.com/generate_204"
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-01 - 🇩🇪 Germany",
+            "tag": "@Proxyfig-01 - 🇺🇸 United States",
+            "server": "63.141.128.14",
+            "server_port": 80,
+            "uuid": "18494a96-f6a7-425d-ae82-dc00c4f3f819",
+            "flow": "",
+            "transport": {
+                "type": "ws",
+                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "a.joIn.zEdMoDeOn.oNl."
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "@Proxyfig-02 - 🇩🇪 Germany",
             "server": "159.65.119.239",
             "server_port": 443,
             "uuid": "1e1858cd-def6-4408-a9d2-153d1f2fe47e",
@@ -167,7 +186,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-02 - 🇱🇮 Liechtenstein",
+            "tag": "@Proxyfig-03 - 🇱🇮 Liechtenstein",
             "server": "1lpxy6haqm-451516713-direct.zamam.co",
             "server_port": 443,
             "uuid": "1lpxy6haqm",
@@ -184,7 +203,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-03 - 🇫🇷 France",
+            "tag": "@Proxyfig-04 - 🇫🇷 France",
             "server": "195.42.233.83",
             "server_port": 443,
             "uuid": "248b794e-905a-47b4-8c23-fa15746a8d9a",
@@ -208,7 +227,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-04 - 🇩🇪 Germany",
+            "tag": "@Proxyfig-05 - 🇩🇪 Germany",
             "server": "51.195.101.222",
             "server_port": 443,
             "uuid": "29f55cea-4038-402c-a496-2e8ae2d8e660",
@@ -232,7 +251,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-05 - 🇮🇷 Iran",
+            "tag": "@Proxyfig-06 - 🇮🇷 Iran",
             "server": "193.151.135.21",
             "server_port": 44443,
             "uuid": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
@@ -253,7 +272,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-06 - 🇮🇷 Iran",
+            "tag": "@Proxyfig-07 - 🇮🇷 Iran",
             "server": "hybrid.arvancloud.online",
             "server_port": 44443,
             "uuid": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
@@ -274,7 +293,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-07 - 🇷🇺 Russia",
+            "tag": "@Proxyfig-08 - 🇷🇺 Russia",
             "server": "ru.sfasti.ru",
             "server_port": 443,
             "uuid": "5475990d-e0ce-46ea-95e5-50f9e4879af9",
@@ -295,7 +314,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-08 - 🇹🇷 Türkiye",
+            "tag": "@Proxyfig-09 - 🇹🇷 Türkiye",
             "server": "185.234.66.81",
             "server_port": 443,
             "uuid": "6e812804-b0e8-4eff-9c2e-96c6fed96f1b",
@@ -319,7 +338,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-09 - 🇫🇷 France",
+            "tag": "@Proxyfig-10 - 🇫🇷 France",
             "server": "194.4.49.229",
             "server_port": 443,
             "uuid": "745ded22-6ae3-4c4d-b31e-c42db0ae74fa",
@@ -343,7 +362,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-10 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-11 - 🇨🇦 Canada",
             "server": "148.113.207.224",
             "server_port": 443,
             "uuid": "74d03a21-f000-4b08-9dd8-440f0e4d6622",
@@ -367,7 +386,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-11 - 🇮🇷 Iran",
+            "tag": "@Proxyfig-12 - 🇮🇷 Iran",
             "server": "cdn26.saloonak.ir",
             "server_port": 8443,
             "uuid": "789d4f30-c31b-4762-8116-ed42574d5e85",
@@ -375,7 +394,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-12 - 🇩🇪 Germany",
+            "tag": "@Proxyfig-13 - 🇩🇪 Germany",
             "server": "unique.bitiboot.com",
             "server_port": 443,
             "uuid": "7bda027c-cbc8-488f-864f-cfb415cd8d77",
@@ -396,7 +415,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-13 - 🇬🇧 United Kingdom",
+            "tag": "@Proxyfig-14 - 🇬🇧 United Kingdom",
             "server": "51.195.202.129",
             "server_port": 443,
             "uuid": "a00b3f51-36ec-4960-9668-a30ad2f68421",
@@ -420,7 +439,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-14 - 🇷🇺 Russia",
+            "tag": "@Proxyfig-15 - 🇷🇺 Russia",
             "server": "ru-0017.vpnvezdehod.net",
             "server_port": 443,
             "uuid": "ce9751a0-fee7-402a-a887-bdc5f7bd1093",
@@ -441,7 +460,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-15 - 🇷🇺 Russia",
+            "tag": "@Proxyfig-16 - 🇷🇺 Russia",
             "server": "wa.sfasti.ru",
             "server_port": 443,
             "uuid": "d4e4c02a-d969-47a6-ba0f-3d433fdac206",
@@ -462,7 +481,22 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-16 - 🇫🇷 France",
+            "tag": "@Proxyfig-17 - 🇺🇸 United States",
+            "server": "63.141.128.23",
+            "server_port": 80,
+            "uuid": "d59d49d3-a392-403a-8480-59934008431d",
+            "flow": "",
+            "transport": {
+                "type": "ws",
+                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "b.jOin.zEdMoDeOn.oNl."
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "@Proxyfig-18 - 🇫🇷 France",
             "server": "185.231.205.231",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -470,7 +504,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-17 - 🇫🇷 France",
+            "tag": "@Proxyfig-19 - 🇫🇷 France",
             "server": "185.231.205.99",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -478,7 +512,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-18 - 🇫🇷 France",
+            "tag": "@Proxyfig-20 - 🇫🇷 France",
             "server": "195.42.233.149",
             "server_port": 443,
             "uuid": "e137be9d-ac3a-4d54-897d-6a706f34795f",
@@ -502,7 +536,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-19 - 🇺🇸 United States",
+            "tag": "@Proxyfig-21 - 🇺🇸 United States",
             "server": "185.236.232.116",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -510,7 +544,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-20 - 🇺🇸 United States",
+            "tag": "@Proxyfig-22 - 🇺🇸 United States",
             "server": "185.236.232.120",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -518,7 +552,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-21 - 🇺🇸 United States",
+            "tag": "@Proxyfig-23 - 🇺🇸 United States",
             "server": "185.236.232.148",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -526,7 +560,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-22 - 🇺🇸 United States",
+            "tag": "@Proxyfig-24 - 🇺🇸 United States",
             "server": "185.236.232.157",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -534,24 +568,8 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-23 - 🇺🇸 United States",
-            "server": "185.236.232.199",
-            "server_port": 8880,
-            "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
-            "flow": ""
-        },
-        {
-            "type": "vless",
-            "tag": "@Proxyfig-24 - 🇺🇸 United States",
-            "server": "185.236.232.199",
-            "server_port": 8880,
-            "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
-            "flow": ""
-        },
-        {
-            "type": "vless",
             "tag": "@Proxyfig-25 - 🇺🇸 United States",
-            "server": "185.236.232.72",
+            "server": "185.236.232.199",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -559,7 +577,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-26 - 🇺🇸 United States",
-            "server": "45.82.251.121",
+            "server": "185.236.232.72",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -567,7 +585,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-27 - 🇺🇸 United States",
-            "server": "45.82.251.58",
+            "server": "45.82.251.121",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -575,7 +593,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-28 - 🇺🇸 United States",
-            "server": "45.82.251.80",
+            "server": "45.82.251.58",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -583,7 +601,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-29 - 🇺🇸 United States",
-            "server": "45.86.72.106",
+            "server": "45.82.251.80",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -591,7 +609,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-30 - 🇺🇸 United States",
-            "server": "pqh25v7.vetmainconf.shop",
+            "server": "45.86.72.106",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -599,7 +617,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-31 - 🇺🇸 United States",
-            "server": "pqh25v7.waipdirect.shop",
+            "server": "pqh25v7.vetmainconf.shop",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -607,7 +625,7 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-32 - 🇺🇸 United States",
-            "server": "pqh30v2.vetmainconf.shop",
+            "server": "pqh25v7.waipdirect.shop",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
             "flow": ""
@@ -615,6 +633,14 @@
         {
             "type": "vless",
             "tag": "@Proxyfig-33 - 🇺🇸 United States",
+            "server": "pqh30v2.vetmainconf.shop",
+            "server_port": 8880,
+            "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
+            "flow": ""
+        },
+        {
+            "type": "vless",
+            "tag": "@Proxyfig-34 - 🇺🇸 United States",
             "server": "public15v7.fastipsport.com",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -622,7 +648,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-34 - 🇯🇵 Japan",
+            "tag": "@Proxyfig-35 - 🇯🇵 Japan",
             "server": "5.253.41.237",
             "server_port": 8443,
             "uuid": "eb42c1ce-5ab3-41f0-95ad-80fa467607d9",
@@ -646,7 +672,22 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-35 - 🇹🇷 Türkiye",
+            "tag": "@Proxyfig-36 - 🇺🇸 United States",
+            "server": "63.141.128.13",
+            "server_port": 80,
+            "uuid": "fdf5ef4d-bf23-4bd1-b04e-39c80ba0c577",
+            "flow": "",
+            "transport": {
+                "type": "ws",
+                "path": "/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "c.jOin.zEdMoDeOn.oNl."
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "@Proxyfig-37 - 🇹🇷 Türkiye",
             "server": "83.217.9.233",
             "server_port": 443,
             "uuid": "ff8d20d1-db9d-4cbe-9fef-ea10a474cd6c",
@@ -667,7 +708,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-36 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-38 - 🇨🇦 Canada",
             "server": "npmjs.com",
             "server_port": 2053,
             "uuid": "vw6hjp6qlg",
