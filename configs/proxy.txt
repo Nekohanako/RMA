@@ -160,8 +160,6 @@ hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:43429/?sni=real.
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
 
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
-
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
 
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1#@Proxyfig
