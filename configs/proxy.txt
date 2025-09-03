@@ -150,10 +150,6 @@ hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.
 
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1#@Proxyfig
 
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
-
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#@Proxyfig
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Proxyfig
