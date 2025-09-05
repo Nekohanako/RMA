@@ -176,8 +176,6 @@ hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429/?sni=real.
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
-
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Proxyfig
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:43429/?sni=real.getafreenode.sbs#@Proxyfig
