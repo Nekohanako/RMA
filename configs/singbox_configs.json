@@ -149,14 +149,14 @@
                 "@Proxyfig-95 - 🇺🇸 United States",
                 "@Proxyfig-96 - 🇺🇸 United States",
                 "@Proxyfig-97 - 🇺🇸 United States",
-                "@Proxyfig-98 - 🏳️ Unknown",
-                "@Proxyfig-99 - 🏳️ Unknown",
+                "@Proxyfig-98 - 🇺🇸 United States",
+                "@Proxyfig-99 - 🇺🇸 United States",
                 "@Proxyfig-100 - 🇺🇸 United States",
-                "@Proxyfig-101 - 🏳️ Unknown",
-                "@Proxyfig-102 - 🏳️ Unknown",
+                "@Proxyfig-101 - 🇺🇸 United States",
+                "@Proxyfig-102 - 🇺🇸 United States",
                 "@Proxyfig-103 - 🇺🇸 United States",
-                "@Proxyfig-104 - 🏳️ Unknown",
-                "@Proxyfig-105 - 🏳️ Unknown"
+                "@Proxyfig-104 - 🇺🇸 United States",
+                "@Proxyfig-105 - 🇺🇸 United States"
             ]
         },
         {
@@ -268,14 +268,14 @@
                 "@Proxyfig-95 - 🇺🇸 United States",
                 "@Proxyfig-96 - 🇺🇸 United States",
                 "@Proxyfig-97 - 🇺🇸 United States",
-                "@Proxyfig-98 - 🏳️ Unknown",
-                "@Proxyfig-99 - 🏳️ Unknown",
+                "@Proxyfig-98 - 🇺🇸 United States",
+                "@Proxyfig-99 - 🇺🇸 United States",
                 "@Proxyfig-100 - 🇺🇸 United States",
-                "@Proxyfig-101 - 🏳️ Unknown",
-                "@Proxyfig-102 - 🏳️ Unknown",
+                "@Proxyfig-101 - 🇺🇸 United States",
+                "@Proxyfig-102 - 🇺🇸 United States",
                 "@Proxyfig-103 - 🇺🇸 United States",
-                "@Proxyfig-104 - 🏳️ Unknown",
-                "@Proxyfig-105 - 🏳️ Unknown"
+                "@Proxyfig-104 - 🇺🇸 United States",
+                "@Proxyfig-105 - 🇺🇸 United States"
             ],
             "url": "http://www.gstatic.com/generate_204"
         },
@@ -2142,7 +2142,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-98 - 🏳️ Unknown",
+            "tag": "@Proxyfig-98 - 🇺🇸 United States",
             "server": "185.236.232.223",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -2150,7 +2150,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-99 - 🏳️ Unknown",
+            "tag": "@Proxyfig-99 - 🇺🇸 United States",
             "server": "185.236.232.243",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -2166,7 +2166,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-101 - 🏳️ Unknown",
+            "tag": "@Proxyfig-101 - 🇺🇸 United States",
             "server": "45.82.251.180",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -2174,7 +2174,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-102 - 🏳️ Unknown",
+            "tag": "@Proxyfig-102 - 🇺🇸 United States",
             "server": "45.82.251.184",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -2190,7 +2190,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-104 - 🏳️ Unknown",
+            "tag": "@Proxyfig-104 - 🇺🇸 United States",
             "server": "45.86.72.106",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -2198,7 +2198,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-105 - 🏳️ Unknown",
+            "tag": "@Proxyfig-105 - 🇺🇸 United States",
             "server": "45.86.72.106",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
