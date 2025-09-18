@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-18T03:29:45.401064+00:00",
+  "timestamp": "2025-09-18T04:20:15.011762+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.78,
-        "last_success": "2025-09-18T03:29:28.264075+00:00",
+        "last_success": "2025-09-18T04:19:57.718411+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.84,
-        "last_success": "2025-09-18T03:29:30.433853+00:00",
+        "overall_score": 75.83,
+        "last_success": "2025-09-18T04:19:59.892700+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 18,
@@ -54,11 +54,11 @@
         "total_configs": 414,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.85,
-        "last_success": "2025-09-18T03:29:32.592236+00:00",
+        "overall_score": 75.89,
+        "last_success": "2025-09-18T04:20:02.030132+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 18,
@@ -100,11 +100,11 @@
         "total_configs": 9216,
         "valid_configs": 96,
         "unique_configs": 96,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.25,
-        "last_success": "2025-09-18T03:29:36.957326+00:00",
+        "overall_score": 75.07,
+        "last_success": "2025-09-18T04:20:06.523432+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
@@ -123,11 +123,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.62,
-        "last_success": "2025-09-18T03:29:39.061578+00:00",
+        "overall_score": 77.55,
+        "last_success": "2025-09-18T04:20:08.679581+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 9,
