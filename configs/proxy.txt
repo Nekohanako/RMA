@@ -16,15 +16,9 @@ vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct
 
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
 
-vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?security=tls&fp=chrome&type=ws&path=/rsrjowws&encryption=none#@Proxyfig
-
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&fp=chrome&type=ws&path=/fqogayws&encryption=none#@Proxyfig
 
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/fqogayws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Proxyfig
-
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@104.20.43.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
-
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@172.66.156.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
 
 vless://2ecc1c66-0808-174c-e51a-5274c1428b3c@85.133.206.49:48008?security=&fp=chrome&type=tcp&headerType=http&host=myket.ir&encryption=none#@Proxyfig
 
@@ -50,19 +44,11 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=
 
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?security=&fp=chrome&type=ws&path=/hjgfdws&encryption=none#@Proxyfig
 
-vless://5a12794b-2125-46d7-a748-927a989faa04@104.20.43.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
-
-vless://5a12794b-2125-46d7-a748-927a989faa04@172.66.156.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
-
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Proxyfig
 
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Proxyfig
 
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
-
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?security=&sni=crazy-identity.oneeat.co&fp=chrome&type=ws&path=/&host=crazy-identity.oneeat.co&encryption=none#@Proxyfig
-
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
 
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?security=&sni=crazy-identity.oneeat.co&fp=chrome&type=ws&path=/&host=crazy-identity.oneeat.co&encryption=none#@Proxyfig
 
@@ -80,8 +66,6 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=
 
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Proxyfig
 
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?security=tls&sni=6389113402676776505.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776505.rtxiran.info&encryption=none#@Proxyfig
-
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Proxyfig
 
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&fp=chrome&type=tcp&encryption=none#@Proxyfig
@@ -97,10 +81,6 @@ vless://b3138f88-8845-41f7-8250-6eaa30be0110@91.98.89.225:6003?security=&fp=chro
 vless://bb77271b-a88c-431f-b7be-358d13f29574@46.101.87.178:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
 
 vless://bbf72cbc-8d43-4f93-b1a1-4487aa589114@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
-
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@104.20.43.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
-
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@172.66.156.81:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Proxyfig
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
 
@@ -127,8 +107,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
 
@@ -266,12 +244,6 @@ hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@sg.mxlk.net:21013?mport=21001-2
 
 hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@sg.mxlk.net:21066?mport=21001-21099#@Proxyfig
 
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@us.mxlk.net:21020?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@us.mxlk.net:21053?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@us.mxlk.net:21056?mport=21001-21099#@Proxyfig
-
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:57588/?sni=real.getafreenode.sbs#@Proxyfig
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:41749/?sni=real.getafreenode.sbs#@Proxyfig
@@ -325,8 +297,6 @@ vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImhvc3QiOiJrYXBlbGxlbmcuY29t
 vmess://eyJhZGQiOiI5MS4xMzQuOC44OCIsImFpZCI6IjAiLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTAyIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#@Proxyfig
 
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDAiLCJhaWQiOiIxIiwiaG9zdCI6ImthbXBvbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyA5MiIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYW1wb25nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#@Proxyfig
-
-vmess://eyJhZGQiOiIxMDMuOTYuNzMuMTYyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI1M2ZkMjJkLTZjYmUtNDk1My04OTFiLTRjZTMxMDhlZDkzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkBSYXlhbl9Db25maWcgMTE1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#@Proxyfig
 
 vmess://eyJhZGQiOiIxNDEuOTQuMTU1LjIyOCIsImFpZCI6IjEiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDkzIiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#@Proxyfig
 
