@@ -228,18 +228,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Proxyfig
 
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@es.mxlk.net:21006?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@es.mxlk.net:21015?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@es.mxlk.net:21067?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@sg.mxlk.net:21004?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@sg.mxlk.net:21013?mport=21001-21099#@Proxyfig
-
-hysteria2://b97d96aa-6169-4ac2-b8c2-f7666b6ec817@sg.mxlk.net:21066?mport=21001-21099#@Proxyfig
-
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:57588/?sni=real.getafreenode.sbs#@Proxyfig
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:41749/?sni=real.getafreenode.sbs#@Proxyfig
