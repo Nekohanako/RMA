@@ -78,11 +78,11 @@ vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&fp=ch
 
 vless://892d34e2-0dd7-4c67-8614-7e46f9a11ad4@157.245.213.126:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
 
-vless://895dd7b7-28db-4f1a-990f-85f0874d1f44@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
-
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
 
 vless://8f7a2d25-6725-408a-b98f-42592eca0b88@46.101.87.178:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
+
+vless://976a3370-8d77-4a4f-8d31-ba91ee1fdb05@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
 
 vless://a2bb27cb-4c80-4c30-8384-d3545a24abdd@159.223.55.3:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
 

@@ -89,9 +89,9 @@
                 "@Proxyfig-35 - 🇨🇦 Canada",
                 "@Proxyfig-36 - 🇮🇷 Iran",
                 "@Proxyfig-37 - 🇺🇸 United States",
-                "@Proxyfig-38 - 🇩🇪 Germany",
-                "@Proxyfig-39 - 🇺🇸 United States",
-                "@Proxyfig-40 - 🇬🇧 United Kingdom",
+                "@Proxyfig-38 - 🇺🇸 United States",
+                "@Proxyfig-39 - 🇬🇧 United Kingdom",
+                "@Proxyfig-40 - 🇩🇪 Germany",
                 "@Proxyfig-41 - 🇸🇬 Singapore",
                 "@Proxyfig-42 - 🇵🇱 Poland",
                 "@Proxyfig-43 - 🇳🇱 The Netherlands",
@@ -181,9 +181,9 @@
                 "@Proxyfig-35 - 🇨🇦 Canada",
                 "@Proxyfig-36 - 🇮🇷 Iran",
                 "@Proxyfig-37 - 🇺🇸 United States",
-                "@Proxyfig-38 - 🇩🇪 Germany",
-                "@Proxyfig-39 - 🇺🇸 United States",
-                "@Proxyfig-40 - 🇬🇧 United Kingdom",
+                "@Proxyfig-38 - 🇺🇸 United States",
+                "@Proxyfig-39 - 🇬🇧 United Kingdom",
+                "@Proxyfig-40 - 🇩🇪 Germany",
                 "@Proxyfig-41 - 🇸🇬 Singapore",
                 "@Proxyfig-42 - 🇵🇱 Poland",
                 "@Proxyfig-43 - 🇳🇱 The Netherlands",
@@ -1019,31 +1019,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-38 - 🇩🇪 Germany",
-            "server": "51.195.101.222",
-            "server_port": 443,
-            "uuid": "895dd7b7-28db-4f1a-990f-85f0874d1f44",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "@Proxyfig-39 - 🇺🇸 United States",
+            "tag": "@Proxyfig-38 - 🇺🇸 United States",
             "server": "5.181.171.2",
             "server_port": 443,
             "uuid": "8e6acce9-8b56-7190-d491-7d84f8189e26",
@@ -1064,10 +1040,34 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-40 - 🇬🇧 United Kingdom",
+            "tag": "@Proxyfig-39 - 🇬🇧 United Kingdom",
             "server": "46.101.87.178",
             "server_port": 443,
             "uuid": "8f7a2d25-6725-408a-b98f-42592eca0b88",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/ws",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "@Proxyfig-40 - 🇩🇪 Germany",
+            "server": "51.195.101.222",
+            "server_port": 443,
+            "uuid": "976a3370-8d77-4a4f-8d31-ba91ee1fdb05",
             "flow": "",
             "tls": {
                 "enabled": true,
