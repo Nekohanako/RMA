@@ -36,8 +36,6 @@ vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&fp=ch
 
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&fp=chrome&type=tcp&encryption=none#@Proxyfig
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&encryption=none#@Proxyfig
-
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Proxyfig
 
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Proxyfig
@@ -55,12 +53,6 @@ vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?security=tls&fp=c
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/teqalfws&encryption=none#@Proxyfig
 
 vless://87664dc2-1ee0-4452-9895-bdeff5a9818d@159.223.38.173:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
-
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776505.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776505.rtxiran.info&encryption=none#@Proxyfig
-
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Proxyfig
-
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Proxyfig
 
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&fp=chrome&type=tcp&encryption=none#@Proxyfig
 
@@ -209,8 +201,6 @@ vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmci
 vmess://eyJhZGQiOiIxNS4yMDQuMTAzLjciLCJhaWQiOiIwIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDExMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#@Proxyfig
 
 vmess://eyJhZGQiOiIxNS4yMDQuNjQuMjExIiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgODkiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#@Proxyfig
-
-vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwiYWlkIjoiMCIsImhvc3QiOiJiYXJhZGloYS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiYmFyYWRpaGEuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#@Proxyfig
 
 vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI3IiwiYWlkIjoiMCIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxMDkiLCJzY3kiOiJhdXRvIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#@Proxyfig
 
