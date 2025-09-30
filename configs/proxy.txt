@@ -18,10 +18,6 @@ vless://116d3496-149b-42e1-99af-db294fe5c584@51.178.42.187:443?security=tls&sni=
 
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?security=tls&fp=chrome&type=ws&path=/yfwhodws&encryption=none#@Proxyfig
 
-vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
-
-vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
-
 vless://20a41d17-dafe-4c84-9234-7a032e11dc22@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
 
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&fp=chrome&type=ws&path=/fqogayws&encryption=none#@Proxyfig
@@ -59,8 +55,6 @@ vless://68ee7b74-f2bb-4a4e-8cb0-2d8774ebb615@165.232.76.102:443?security=tls&sni
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?security=tls&fp=chrome&type=ws&path=/lkjdasws&encryption=none#@Proxyfig
 
 vless://6f01e622-28aa-476f-b79d-1ddfa934ddf3@54.36.114.71:8443?security=reality&sni=google.com&fp=chrome&pbk=8zV5pfEpNC8ZaOnG0wrRHcARoQYe6eEkys6BhFkh5HA&sid=83b0bb946de0&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
-
-vless://6f93e5b7-2188-45ac-91e3-71e8909c225e@141.227.140.168:45946?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Proxyfig
 
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/teqalfws&encryption=none#@Proxyfig
 
@@ -271,8 +265,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Proxyfig
 
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Proxyfig
-
-hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?insecure=1#@Proxyfig
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:50440/?sni=real.getafreenode.sbs#@Proxyfig
 
