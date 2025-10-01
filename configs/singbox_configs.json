@@ -139,11 +139,11 @@
                 "@Proxyfig-85 - 🇺🇸 United States",
                 "@Proxyfig-86 - 🇺🇸 United States",
                 "@Proxyfig-87 - 🇺🇸 United States",
-                "@Proxyfig-88 - 🇺🇸 United States",
-                "@Proxyfig-89 - 🇫🇷 France",
-                "@Proxyfig-90 - 🇨🇦 Canada",
+                "@Proxyfig-88 - 🏳️ Unknown",
+                "@Proxyfig-89 - 🏳️ Unknown",
+                "@Proxyfig-90 - 🏳️ Unknown",
                 "@Proxyfig-91 - 🇮🇷 Iran",
-                "@Proxyfig-92 - 🇨🇦 Canada"
+                "@Proxyfig-92 - 🏳️ Unknown"
             ]
         },
         {
@@ -245,11 +245,11 @@
                 "@Proxyfig-85 - 🇺🇸 United States",
                 "@Proxyfig-86 - 🇺🇸 United States",
                 "@Proxyfig-87 - 🇺🇸 United States",
-                "@Proxyfig-88 - 🇺🇸 United States",
-                "@Proxyfig-89 - 🇫🇷 France",
-                "@Proxyfig-90 - 🇨🇦 Canada",
+                "@Proxyfig-88 - 🏳️ Unknown",
+                "@Proxyfig-89 - 🏳️ Unknown",
+                "@Proxyfig-90 - 🏳️ Unknown",
                 "@Proxyfig-91 - 🇮🇷 Iran",
-                "@Proxyfig-92 - 🇨🇦 Canada"
+                "@Proxyfig-92 - 🏳️ Unknown"
             ],
             "url": "http://www.gstatic.com/generate_204"
         },
@@ -1250,7 +1250,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-88 - 🇺🇸 United States",
+            "tag": "@Proxyfig-88 - 🏳️ Unknown",
             "server": "45.82.251.93",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -1258,7 +1258,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-89 - 🇫🇷 France",
+            "tag": "@Proxyfig-89 - 🏳️ Unknown",
             "server": "141.94.168.171",
             "server_port": 32647,
             "uuid": "edd716ae-7d5a-44f7-a0ed-a615eab0c766",
@@ -1266,7 +1266,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-90 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-90 - 🏳️ Unknown",
             "server": "medium.com",
             "server_port": 443,
             "uuid": "f2a73750-3087-48ff-a763-1348c15dce68",
@@ -1305,7 +1305,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-92 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-92 - 🏳️ Unknown",
             "server": "51.79.70.147",
             "server_port": 10004,
             "uuid": "f818a4b0-9a3f-11f0-b382-5361b9be0dd2",
