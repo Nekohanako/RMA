@@ -14,7 +14,6 @@ class ConfigToSingbox:
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
-        # حافظه موقت برای ذخیره موقعیت IPها تا دوباره درخواست ارسال نشود
         self.location_cache = {}
 
     def get_location(self, address: str) -> tuple:
@@ -26,7 +25,6 @@ class ConfigToSingbox:
             if ip in self.location_cache:
                 return self.location_cache[ip]
 
-            # برای جلوگیری از درخواست‌های مکرر و بلاک شدن، از یک API ساده استفاده می‌کنیم
             response = requests.get(f'http://ip-api.com/json/{ip}?fields=country,countryCode', headers=self.headers, timeout=5)
             if response.status_code == 200:
                 data = response.json()
@@ -123,15 +121,12 @@ class ConfigToSingbox:
 
                 return singbox_config
 
-            # سایر پروتکل‌ها در اینجا اضافه شوند اگر نیاز بود
             return None
         except Exception:
             return None
 
     def build_full_config(self, outbounds: List[Dict], use_fragment: bool) -> Dict:
-        """Builds the complete Sing-box JSON structure."""
         if use_fragment:
-            # Add fragmentation settings to VLESS configs
             for ob in outbounds:
                 if ob['type'] == 'vless' and 'tls' in ob:
                     ob['tls']['fragment'] = {
@@ -155,8 +150,8 @@ class ConfigToSingbox:
                 ]
             },
             "inbounds": [
-                {"type": "tun", "tag": "tun-in", "listen_port": 9000, "stack": "mixed", "sniff": True},
-                {"type": "mixed", "tag": "mixed-in", "listen": "127.0.0.1", "listen_port": 2080}
+                {"type": "tun", "tag": "tun-in", "stack": "mixed", "sniff": True},
+                {"type": "mixed", "tag": "mixed-in", "listen": "127.0.0.1:2080"}
             ],
             "outbounds": [
                 {"type": "selector", "tag": "PROXY", "outbounds": ["♻️ Best Ping 🔥"] + valid_tags},
@@ -198,13 +193,11 @@ class ConfigToSingbox:
                 print("No valid configs were converted to Sing-box format.")
                 return
 
-            # Build and save the standard config file
             standard_full_config = self.build_full_config(copy.deepcopy(outbounds), use_fragment=False)
             with open('configs/singbox_configs.json', 'w', encoding='utf-8') as f:
                 json.dump(standard_full_config, f, indent=4, ensure_ascii=False)
             print("Successfully generated configs/singbox_configs.json")
 
-            # Build and save the fragmented config file
             fragmented_full_config = self.build_full_config(copy.deepcopy(outbounds), use_fragment=True)
             with open('configs/singbox_frg_configs.json', 'w', encoding='utf-8') as f:
                 json.dump(fragmented_full_config, f, indent=4, ensure_ascii=False)
