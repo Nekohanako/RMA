@@ -35,15 +35,13 @@
         {
             "type": "tun",
             "tag": "tun-in",
-            "listen_port": 9000,
             "stack": "mixed",
             "sniff": true
         },
         {
             "type": "mixed",
             "tag": "mixed-in",
-            "listen": "127.0.0.1",
-            "listen_port": 2080
+            "listen": "127.0.0.1:2080"
         }
     ],
     "outbounds": [
