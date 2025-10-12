@@ -84,10 +84,10 @@
                 "@Proxyfig-31 - 🇺🇸 United States",
                 "@Proxyfig-32 - 🇺🇸 United States",
                 "@Proxyfig-33 - 🇵🇹 Portugal",
-                "@Proxyfig-34 - 🇨🇦 Canada",
+                "@Proxyfig-34 - 🇺🇸 United States",
                 "@Proxyfig-35 - 🇺🇸 United States",
                 "@Proxyfig-36 - 🇺🇸 United States",
-                "@Proxyfig-37 - 🇨🇦 Canada",
+                "@Proxyfig-37 - 🇺🇸 United States",
                 "@Proxyfig-38 - 🇧🇪 Belgium",
                 "@Proxyfig-39 - 🇳🇱 The Netherlands",
                 "@Proxyfig-40 - 🇺🇸 United States",
@@ -210,10 +210,10 @@
                 "@Proxyfig-31 - 🇺🇸 United States",
                 "@Proxyfig-32 - 🇺🇸 United States",
                 "@Proxyfig-33 - 🇵🇹 Portugal",
-                "@Proxyfig-34 - 🇨🇦 Canada",
+                "@Proxyfig-34 - 🇺🇸 United States",
                 "@Proxyfig-35 - 🇺🇸 United States",
                 "@Proxyfig-36 - 🇺🇸 United States",
-                "@Proxyfig-37 - 🇨🇦 Canada",
+                "@Proxyfig-37 - 🇺🇸 United States",
                 "@Proxyfig-38 - 🇧🇪 Belgium",
                 "@Proxyfig-39 - 🇳🇱 The Netherlands",
                 "@Proxyfig-40 - 🇺🇸 United States",
@@ -374,7 +374,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "fr-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-fr-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -385,7 +385,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "fr-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-fr-1.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -446,7 +446,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "ca-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -457,7 +457,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "ca-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -598,7 +598,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "sg-2.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-sg-2.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -609,7 +609,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "sg-2.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-sg-2.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -646,7 +646,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "aU-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-Au-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -657,7 +657,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "aU-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-Au-1.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -862,7 +862,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "us-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-us-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -873,7 +873,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "us-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-us-1.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -935,14 +935,14 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-34 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-34 - 🇺🇸 United States",
             "server": "al-akhbar.com",
             "server_port": 443,
             "uuid": "961d0a10-f1c5-45df-8395-dee658e7cdc2",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "es-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-es-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -953,7 +953,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "es-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-es-1.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -1007,7 +1007,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-37 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-37 - 🇺🇸 United States",
             "server": "mybb.com",
             "server_port": 443,
             "uuid": "aebe5a70-0ca3-46ce-8208-8b5bab1346ce",
@@ -1070,7 +1070,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "nl-2.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-nl-2.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1081,7 +1081,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "nl-2.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-nl-2.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -1675,7 +1675,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "in-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-in-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1686,7 +1686,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "in-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-in-1.pArIsA.DpDnS.OrG"
                 }
             }
         },
@@ -1763,7 +1763,7 @@
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "nl-1.rAyAn-rVp.cLoUdNs.cLuB",
+                "server_name": "rAyAn-cOnFiG-nl-1.pArIsA.DpDnS.OrG",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1774,7 +1774,7 @@
                 "type": "ws",
                 "path": "/ws",
                 "headers": {
-                    "Host": "nl-1.rAyAn-rVp.cLoUdNs.cLuB"
+                    "Host": "rAyAn-cOnFiG-nl-1.pArIsA.DpDnS.OrG"
                 }
             }
         }
