@@ -248,8 +248,6 @@ vless://f59e2420-b706-4bee-bcdd-1c2162e5372a@codepen.io:443?security=tls&sni=rAy
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:56684/?sni=real.getafreenode.sbs#@Proxyfig
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@147.45.73.70:48922/?sni=real.getafreenode.sbs#@Proxyfig
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:56684/?sni=real.getafreenode.sbs#@Proxyfig
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:56684/?sni=real.getafreenode.sbs#@Proxyfig
@@ -273,8 +271,6 @@ hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:56684/?sni=real.
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:56684/?sni=real.getafreenode.sbs#@Proxyfig
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:56684/?sni=real.getafreenode.sbs#@Proxyfig
-
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@147.45.73.70:48922/?sni=real.getafreenode.sbs#@Proxyfig
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:56684/?sni=real.getafreenode.sbs#@Proxyfig
 
