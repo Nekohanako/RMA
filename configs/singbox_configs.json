@@ -137,8 +137,8 @@
                 "@Proxyfig-83 - 🇫🇷 France",
                 "@Proxyfig-84 - 🇫🇷 France",
                 "@Proxyfig-85 - 🇺🇦 Ukraine",
-                "@Proxyfig-86 - 🇨🇦 Canada",
-                "@Proxyfig-87 - 🇨🇦 Canada",
+                "@Proxyfig-86 - 🇺🇸 United States",
+                "@Proxyfig-87 - 🇺🇸 United States",
                 "@Proxyfig-88 - 🇨🇦 Canada"
             ]
         },
@@ -239,8 +239,8 @@
                 "@Proxyfig-83 - 🇫🇷 France",
                 "@Proxyfig-84 - 🇫🇷 France",
                 "@Proxyfig-85 - 🇺🇦 Ukraine",
-                "@Proxyfig-86 - 🇨🇦 Canada",
-                "@Proxyfig-87 - 🇨🇦 Canada",
+                "@Proxyfig-86 - 🇺🇸 United States",
+                "@Proxyfig-87 - 🇺🇸 United States",
                 "@Proxyfig-88 - 🇨🇦 Canada"
             ],
             "url": "http://www.gstatic.com/generate_204"
@@ -1304,7 +1304,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-86 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-86 - 🇺🇸 United States",
             "server": "check-host.net",
             "server_port": 443,
             "uuid": "e617e005-87c0-48a9-a499-6f9a134bdf1a",
@@ -1328,7 +1328,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-87 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-87 - 🇺🇸 United States",
             "server": "check-host.net",
             "server_port": 443,
             "uuid": "e617e005-87c0-48a9-a499-6f9a134bdf1a",
