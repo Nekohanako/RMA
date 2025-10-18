@@ -126,8 +126,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&fp=chr
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?security=&fp=chrome&type=grpc&encryption=none#@Proxyfig
@@ -248,10 +246,6 @@ hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@104.250.239.32:53810/?sni=real.
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:45294/?sni=real.getafreenode.sbs#@Proxyfig
 
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Proxyfig
-
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Proxyfig
-
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Proxyfig
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@104.250.239.32:53810/?sni=real.getafreenode.sbs#@Proxyfig
@@ -309,8 +303,6 @@ vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIwNiIsImFpZCI6IjAiLCJob3N0IjoicGVsYW5nLm9yZyIs
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIxMSIsImFpZCI6IjAiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMTIiLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#@Proxyfig
 
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIyNyIsImFpZCI6IjAiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMDciLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#@Proxyfig
-
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIzMCIsImFpZCI6IjAiLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTgxIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#@Proxyfig
 
 vmess://eyJhZGQiOiI1Ny4xMjguMjE2LjEyNSIsImFpZCI6IjEiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDIwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYW1wb25nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#@Proxyfig
 
