@@ -158,8 +158,10 @@ class ConfigToSingbox:
                 {
                     "type": "mixed",
                     "tag": "mixed-in",
-                    "listen": "127.0.0.1:2080",
-                    "sniff": True
+                    "listen": "127.0.0.1",
+                    "listen_port": 2080,
+                    "sniff": True,
+                    "sniff_override_destination": True
                 },
                 {
                     "type": "tun",
@@ -169,12 +171,14 @@ class ConfigToSingbox:
                     "mtu": 9000,
                     "auto_route": True,
                     "strict_route": True,
-                    "sniff": True
+                    "sniff": True,
+                    "sniff_override_destination": False
                 },
                 {
                     "type": "dns",
                     "tag": "dns-in",
-                    "listen": "127.0.0.1:5354"
+                    "listen": "127.0.0.1",
+                    "listen_port": 5354
                 }
             ],
             "outbounds": [
@@ -199,9 +203,17 @@ class ConfigToSingbox:
 
     def process_and_save_configs(self):
         try:
+            # Create configs directory if it doesn't exist
+            if not os.path.exists('configs'):
+                os.makedirs('configs')
+
             input_file = 'configs/proxy.txt'
             if not os.path.exists(input_file):
                 print(f"Input file not found: {input_file}")
+                # Create an empty proxy.txt if it doesn't exist
+                with open(input_file, 'w') as f:
+                    f.write('')
+                print(f"Created an empty file at {input_file}. Please add your proxy links to it.")
                 return
 
             with open(input_file, 'r', encoding='utf-8') as f:
@@ -214,7 +226,7 @@ class ConfigToSingbox:
                     outbounds.append(converted)
             
             if not outbounds:
-                print("No valid configs were converted to Sing-box format.")
+                print("No valid configs were converted to Sing-box format. Please check configs/proxy.txt")
                 return
 
             # Build and save the standard config file
