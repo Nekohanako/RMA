@@ -12,9 +12,8 @@ from urllib.parse import urlparse, parse_qs
 class ConfigToSingbox:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/536'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
-        # حافظه موقت برای ذخیره موقعیت IPها تا دوباره درخواست ارسال نشود
         self.location_cache = {}
 
     def get_location(self, address: str) -> tuple:
@@ -26,7 +25,6 @@ class ConfigToSingbox:
             if ip in self.location_cache:
                 return self.location_cache[ip]
 
-            # برای جلوگیری از درخواست‌های مکرر و بلاک شدن، از یک API ساده استفاده می‌کنیم
             response = requests.get(f'http://ip-api.com/json/{ip}?fields=country,countryCode', headers=self.headers, timeout=5)
             if response.status_code == 200:
                 data = response.json()
@@ -44,14 +42,6 @@ class ConfigToSingbox:
         result = "🏳️ Unknown"
         self.location_cache[address] = result
         return result
-
-    def decode_vmess(self, config: str) -> Optional[Dict]:
-        try:
-            encoded = config.replace('vmess://', '')
-            decoded = base64.b64decode(encoded).decode('utf-8')
-            return json.loads(decoded)
-        except Exception:
-            return None
 
     def parse_vless(self, config: str) -> Optional[Dict]:
         try:
@@ -120,10 +110,7 @@ class ConfigToSingbox:
                         "path": data['path'],
                         "headers": {"Host": data['host']}
                     }
-
                 return singbox_config
-
-            # سایر پروتکل‌ها در اینجا اضافه شوند اگر نیاز بود
             return None
         except Exception:
             return None
@@ -131,7 +118,6 @@ class ConfigToSingbox:
     def build_full_config(self, outbounds: List[Dict], use_fragment: bool) -> Dict:
         """Builds the complete Sing-box JSON structure."""
         if use_fragment:
-            # Add fragmentation settings to VLESS configs
             for ob in outbounds:
                 if ob['type'] == 'vless' and 'tls' in ob:
                     ob['tls']['fragment'] = {
@@ -146,22 +132,22 @@ class ConfigToSingbox:
             "log": {"level": "warn", "timestamp": True},
             "dns": {
                 "servers": [
-                    {"tag": "proxy-dns", "address": "https://1.1.1.1/dns-query", "detour": "PROXY"},
-                    {"tag": "local-dns", "address": "https://8.8.8.8/dns-query", "detour": "DIRECT"}
+                    {"tag": "proxy-dns", "address": "dns.google", "detour": "PROXY"},
+                    {"tag": "local-dns", "address": "1.1.1.1", "detour": "DIRECT"}
                 ],
                 "rules": [
-                    {"outbound": ["any"], "server": "local-dns"},
-                    {"rule_set": ["geosite-ir"], "server": "local-dns"}
-                ]
+                    {"rule_set": ["geosite-ir"], "server": "local-dns"},
+                    {"outbound": "any", "server": "proxy-dns"}
+                ],
+                "final": "proxy-dns"
             },
             "inbounds": [
                 {
                     "type": "mixed",
                     "tag": "mixed-in",
                     "listen": "127.0.0.1",
-                    "listen_port": 2080,
-                    "sniff": True,
-                    "sniff_override_destination": True
+                    "listen_port":"2080",
+                    "sniff": True
                 },
                 {
                     "type": "tun",
@@ -171,30 +157,24 @@ class ConfigToSingbox:
                     "mtu": 9000,
                     "auto_route": True,
                     "strict_route": True,
-                    "sniff": True,
-                    "sniff_override_destination": False
-                },
-                {
-                    "type": "dns",
-                    "tag": "dns-in",
-                    "listen": "127.0.0.1",
-                    "listen_port": 5354
+                    "sniff": True
                 }
             ],
             "outbounds": [
-                {"type": "selector", "tag": "PROXY", "outbounds": ["♻️ Best Ping 🔥"] + valid_tags},
+                {"type": "selector", "tag": "PROXY", "outbounds": ["♻️ Best Ping 🔥"] + valid_tags, "default": "♻️ Best Ping 🔥"},
                 {"type": "direct", "tag": "DIRECT"},
                 {"type": "block", "tag": "BLOCK"},
-                {"type": "urltest", "tag": "♻️ Best Ping 🔥", "outbounds": valid_tags, "url": "http://www.gstatic.com/generate_204"}
+                {"type": "urltest", "tag": "♻️ Best Ping 🔥", "outbounds": valid_tags, "url": "http://www.gstatic.com/generate_204", "interval": "10m"}
             ] + outbounds,
             "route": {
                 "rules": [
+                    {"protocol": "dns", "outbound": "local-dns"},
                     {"rule_set": "geosite-ir", "outbound": "DIRECT"},
                     {"rule_set": "geosite-ads-all", "outbound": "BLOCK"}
                 ],
                 "rule_set": [
-                    {"tag": "geosite-ir", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-ir.srs"},
-                    {"tag": "geosite-ads-all", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ads-all.srs"}
+                    {"tag": "geosite-ir", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-ir.srs", "download_detour": "DIRECT"},
+                    {"tag": "geosite-ads-all", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ads-all.srs", "download_detour": "DIRECT"}
                 ],
                 "final": "PROXY"
             }
@@ -203,19 +183,16 @@ class ConfigToSingbox:
 
     def process_and_save_configs(self):
         try:
-            # Create configs directory if it doesn't exist
             if not os.path.exists('configs'):
                 os.makedirs('configs')
 
             input_file = 'configs/proxy.txt'
             if not os.path.exists(input_file):
                 print(f"Input file not found: {input_file}")
-                # Create an empty proxy.txt if it doesn't exist
-                with open(input_file, 'w') as f:
+                with open(input_file, 'w', encoding='utf-8') as f:
                     f.write('')
                 print(f"Created an empty file at {input_file}. Please add your proxy links to it.")
-                return
-
+                
             with open(input_file, 'r', encoding='utf-8') as f:
                 configs = [line.strip() for line in f if line.strip() and not line.startswith('//')]
             
@@ -226,16 +203,21 @@ class ConfigToSingbox:
                     outbounds.append(converted)
             
             if not outbounds:
-                print("No valid configs were converted to Sing-box format. Please check configs/proxy.txt")
+                print("No valid configs were converted. Generating a base config file without proxies.")
+                # حتی اگر کانفیگی نباشد، یک فایل پایه معتبر بساز
+                base_config = self.build_full_config([], False)
+                with open('configs/singbox_configs.json', 'w', encoding='utf-8') as f:
+                    json.dump(base_config, f, indent=4, ensure_ascii=False)
+                with open('configs/singbox_frg_configs.json', 'w', encoding='utf-8') as f:
+                    json.dump(base_config, f, indent=4, ensure_ascii=False)
+                print("Successfully generated empty but valid config files.")
                 return
 
-            # Build and save the standard config file
             standard_full_config = self.build_full_config(copy.deepcopy(outbounds), use_fragment=False)
             with open('configs/singbox_configs.json', 'w', encoding='utf-8') as f:
                 json.dump(standard_full_config, f, indent=4, ensure_ascii=False)
             print("Successfully generated configs/singbox_configs.json")
 
-            # Build and save the fragmented config file
             fragmented_full_config = self.build_full_config(copy.deepcopy(outbounds), use_fragment=True)
             with open('configs/singbox_frg_configs.json', 'w', encoding='utf-8') as f:
                 json.dump(fragmented_full_config, f, indent=4, ensure_ascii=False)
