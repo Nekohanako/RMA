@@ -181,8 +181,8 @@
                 "@Proxyfig-124 - 🇫🇷 France",
                 "@Proxyfig-125 - 🇫🇷 France",
                 "@Proxyfig-126 - 🇺🇦 Ukraine",
-                "@Proxyfig-127 - 🇨🇦 Canada",
-                "@Proxyfig-128 - 🇨🇦 Canada",
+                "@Proxyfig-127 - 🇺🇸 United States",
+                "@Proxyfig-128 - 🇺🇸 United States",
                 "@Proxyfig-129 - 🇹🇷 Turkey",
                 "@Proxyfig-130 - 🇨🇦 Canada"
             ],
@@ -326,8 +326,8 @@
                 "@Proxyfig-124 - 🇫🇷 France",
                 "@Proxyfig-125 - 🇫🇷 France",
                 "@Proxyfig-126 - 🇺🇦 Ukraine",
-                "@Proxyfig-127 - 🇨🇦 Canada",
-                "@Proxyfig-128 - 🇨🇦 Canada",
+                "@Proxyfig-127 - 🇺🇸 United States",
+                "@Proxyfig-128 - 🇺🇸 United States",
                 "@Proxyfig-129 - 🇹🇷 Turkey",
                 "@Proxyfig-130 - 🇨🇦 Canada"
             ],
@@ -1916,7 +1916,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-127 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-127 - 🇺🇸 United States",
             "server": "check-host.net",
             "server_port": 443,
             "uuid": "e617e005-87c0-48a9-a499-6f9a134bdf1a",
@@ -1940,7 +1940,7 @@
         },
         {
             "type": "vless",
-            "tag": "@Proxyfig-128 - 🇨🇦 Canada",
+            "tag": "@Proxyfig-128 - 🇺🇸 United States",
             "server": "check-host.net",
             "server_port": 443,
             "uuid": "e617e005-87c0-48a9-a499-6f9a134bdf1a",
