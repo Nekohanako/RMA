@@ -12,7 +12,7 @@ from urllib.parse import urlparse, parse_qs
 class ConfigToSingbox:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/536'
         }
         # حافظه موقت برای ذخیره موقعیت IPها تا دوباره درخواست ارسال نشود
         self.location_cache = {}
@@ -155,8 +155,27 @@ class ConfigToSingbox:
                 ]
             },
             "inbounds": [
-                {"type": "tun", "tag": "tun-in", "listen_port": 9000, "stack": "mixed", "sniff": True},
-                {"type": "mixed", "tag": "mixed-in", "listen": "127.0.0.1", "listen_port": 2080}
+                {
+                    "type": "mixed",
+                    "tag": "mixed-in",
+                    "listen": "127.0.0.1:2080",
+                    "sniff": True
+                },
+                {
+                    "type": "tun",
+                    "tag": "tun-in",
+                    "interface_name": "tun0",
+                    "inet4_address": "172.19.0.1/30",
+                    "mtu": 9000,
+                    "auto_route": True,
+                    "strict_route": True,
+                    "sniff": True
+                },
+                {
+                    "type": "dns",
+                    "tag": "dns-in",
+                    "listen": "127.0.0.1:5354"
+                }
             ],
             "outbounds": [
                 {"type": "selector", "tag": "PROXY", "outbounds": ["♻️ Best Ping 🔥"] + valid_tags},
