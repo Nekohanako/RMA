@@ -266,9 +266,9 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@104.250.239.32:57919/?sni=imafa
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:40753/?sni=imafake.locker#@Proxyfig
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:57769/?sni=imafake.locker#@Proxyfig
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:57919/?sni=imafake.locker#@Proxyfig
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:58901/?sni=imafake.locker#@Proxyfig
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:40753/?sni=imafake.locker#@Proxyfig
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@104.250.239.32:57919/?sni=imafake.locker#@Proxyfig
 
@@ -302,9 +302,9 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@104.250.239.32:57919/?sni=imafa
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:40753/?sni=imafake.locker#@Proxyfig
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@104.250.239.32:57769/?sni=imafake.locker#@Proxyfig
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@104.250.239.32:57919/?sni=imafake.locker#@Proxyfig
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:58901/?sni=imafake.locker#@Proxyfig
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:40753/?sni=imafake.locker#@Proxyfig
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:57919/?sni=imafake.locker#@Proxyfig
 
