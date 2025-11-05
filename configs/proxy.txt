@@ -72,12 +72,6 @@ vless://99f47914-23d8-4367-81bc-b4b759eb7505@www.visa.com.tw:443?security=tls&sn
 
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
 
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@108.162.195.75:443?security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&path=/fiedpnws&host=638971674693810969.brussels-prmpl-aaaad.com&encryption=none#@Proxyfig
-
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@162.159.44.75:443?security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&path=/fiedpnws&host=638971674693810969.brussels-prmpl-aaaad.com&encryption=none#@Proxyfig
-
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@172.64.35.75:443?security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&path=/fiedpnws&host=638971674693810969.brussels-prmpl-aaaad.com&encryption=none#@Proxyfig
-
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#@Proxyfig
 
 vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@Proxyfig
@@ -133,8 +127,6 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAy
 vless://f31f5fe0-0a42-436a-be94-437330801388@141.98.168.41:443?security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&sid=7e44612b079459&spx=/telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN--MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
 
 vless://f31f5fe0-0a42-436a-be94-437330801388@141.98.168.41:443?security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&sid=7e44612b079459&type=tcp&flow=xtls-rprx-vision&encryption=none#@Proxyfig
-
-vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@104.21.93.146:443?security=tls&sni=nodegcf.azurka.org&fp=chrome&type=ws&path=/ws&host=nodegcf.azurka.org&encryption=none#@Proxyfig
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Proxyfig
 
