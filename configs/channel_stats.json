@@ -48,7 +48,7 @@
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/GAFN-IVP/GAFN-ALL-II/refs/heads/main/configs/proxy_configs.txt",
+      "url": "https://the3rf.com/sub.php",
       "enabled": false,
       "metrics": {
         "total_configs": 0,
