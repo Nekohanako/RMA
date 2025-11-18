@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T08:35:53.513677+00:00",
+  "timestamp": "2025-11-18T09:29:59.843683+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -100,11 +100,11 @@
         "total_configs": 64,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.93,
-        "last_success": "2025-11-18T08:35:45.139972+00:00",
+        "overall_score": 78.03,
+        "last_success": "2025-11-18T09:29:51.654869+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 3,
@@ -123,11 +123,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.63,
-        "last_success": "2025-11-18T08:35:47.240439+00:00",
+        "overall_score": 77.71,
+        "last_success": "2025-11-18T09:29:53.699710+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
