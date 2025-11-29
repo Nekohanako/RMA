@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-29T12:52:11.451626+00:00",
+  "timestamp": "2025-11-29T13:31:51.008032+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.63,
-        "last_success": "2025-11-29T12:51:55.070003+00:00",
+        "overall_score": 77.67,
+        "last_success": "2025-11-29T13:31:34.663632+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,11 +100,11 @@
         "total_configs": 9,
         "valid_configs": 3,
         "unique_configs": 3,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.27,
-        "last_success": "2025-11-29T12:52:03.307639+00:00",
+        "overall_score": 83.29,
+        "last_success": "2025-11-29T13:31:42.885913+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -127,7 +127,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.73,
-        "last_success": "2025-11-29T12:52:05.340895+00:00",
+        "last_success": "2025-11-29T13:31:44.916741+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -172,8 +172,8 @@
         "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.07,
-        "last_success": "2025-11-29T12:52:09.412972+00:00",
+        "overall_score": 78.09,
+        "last_success": "2025-11-29T13:31:48.969999+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -196,7 +196,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.72,
-        "last_success": "2025-11-29T12:52:11.450941+00:00",
+        "last_success": "2025-11-29T13:31:51.007454+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
