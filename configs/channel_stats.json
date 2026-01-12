@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T14:34:08.802438+00:00",
+  "timestamp": "2026-01-12T15:34:38.047780+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.29,
-        "last_success": "2026-01-12T14:33:51.556161+00:00",
+        "overall_score": 77.52,
+        "last_success": "2026-01-12T15:34:20.847219+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.52,
-        "last_success": "2026-01-12T14:34:02.341106+00:00",
+        "overall_score": 77.58,
+        "last_success": "2026-01-12T15:34:31.629994+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -169,11 +169,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.53,
-        "last_success": "2026-01-12T14:34:06.652862+00:00",
+        "overall_score": 77.58,
+        "last_success": "2026-01-12T15:34:35.899299+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -196,7 +196,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.56,
-        "last_success": "2026-01-12T14:34:08.801768+00:00",
+        "last_success": "2026-01-12T15:34:38.047171+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
