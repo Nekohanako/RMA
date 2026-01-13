@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T10:33:37.472734+00:00",
+  "timestamp": "2026-01-13T11:28:08.667845+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.55,
-        "last_success": "2026-01-13T10:33:20.362923+00:00",
+        "overall_score": 77.56,
+        "last_success": "2026-01-13T11:27:51.586917+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.58,
-        "last_success": "2026-01-13T10:33:31.046316+00:00",
+        "overall_score": 77.6,
+        "last_success": "2026-01-13T11:28:02.276438+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.58,
-        "last_success": "2026-01-13T10:33:35.310318+00:00",
+        "last_success": "2026-01-13T11:28:06.539811+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -192,11 +192,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.54,
-        "last_success": "2026-01-13T10:33:37.471971+00:00",
+        "overall_score": 77.59,
+        "last_success": "2026-01-13T11:28:08.667221+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
