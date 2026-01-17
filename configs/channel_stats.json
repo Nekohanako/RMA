@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-17T12:55:04.297238+00:00",
+  "timestamp": "2026-01-17T13:34:15.025569+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.61,
-        "last_success": "2026-01-17T12:54:47.852637+00:00",
+        "overall_score": 77.1,
+        "last_success": "2026-01-17T13:33:58.728887+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.7,
-        "last_success": "2026-01-17T12:54:58.156561+00:00",
+        "overall_score": 77.74,
+        "last_success": "2026-01-17T13:34:08.945832+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -169,11 +169,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.69,
-        "last_success": "2026-01-17T12:55:02.267676+00:00",
+        "overall_score": 77.74,
+        "last_success": "2026-01-17T13:34:12.998481+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -196,7 +196,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.74,
-        "last_success": "2026-01-17T12:55:04.296636+00:00",
+        "last_success": "2026-01-17T13:34:15.024963+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
