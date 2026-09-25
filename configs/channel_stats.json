@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T01:21:42.689007+00:00",
+  "timestamp": "2026-09-25T07:35:04.947056+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -126,8 +126,8 @@
         "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.97,
-        "last_success": "2026-09-25T01:21:36.334145+00:00",
+        "overall_score": 76.96,
+        "last_success": "2026-09-25T07:34:58.562707+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -169,11 +169,11 @@
         "total_configs": 100,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.04,
-        "last_success": "2026-09-25T01:21:40.529034+00:00",
+        "overall_score": 77.13,
+        "last_success": "2026-09-25T07:35:02.746153+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -192,11 +192,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.26,
-        "last_success": "2026-09-25T01:21:42.688285+00:00",
+        "overall_score": 77.2,
+        "last_success": "2026-09-25T07:35:04.946361+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
